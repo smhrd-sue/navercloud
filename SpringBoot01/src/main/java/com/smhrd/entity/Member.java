@@ -23,6 +23,7 @@ public class Member {
 	private String tel;
 	
 	private String address;
+<<<<<<< HEAD
 
 	public String getEmail() {
 		return email;
@@ -55,6 +56,8 @@ public class Member {
 	public void setAddress(String address) {
 		this.address = address;
 	}
+=======
+>>>>>>> branch 'master' of https://github.com/smhrd-sue/navercloud.git
 	
 	
 	

@@ -12,7 +12,11 @@ import lombok.RequiredArgsConstructor;
 @Configuration
 public class WebSocketConfig implements WebSocketConfigurer {
 
+<<<<<<< HEAD
 	private final WebSocketHandler handler = new WebSocketHandler();
+=======
+	private final WebSocketHandler handler;
+>>>>>>> branch 'master' of https://github.com/smhrd-sue/navercloud.git
 	
 	@Override
 	public void registerWebSocketHandlers(WebSocketHandlerRegistry registry) {

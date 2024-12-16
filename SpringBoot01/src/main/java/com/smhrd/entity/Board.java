@@ -18,6 +18,7 @@ public class Board {
 	private int count;
 	
 	private int idx;
+<<<<<<< HEAD
 
 	public String getTitle() {
 		return title;
@@ -77,4 +78,8 @@ public class Board {
 	
 
 	
+=======
+	
+
+>>>>>>> branch 'master' of https://github.com/smhrd-sue/navercloud.git
 }
